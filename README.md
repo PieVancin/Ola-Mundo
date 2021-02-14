@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositório da minha vida, treinando versionamento
+# Olá, Mundo!
+ Primeiro repositório treinando versionamento
